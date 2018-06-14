@@ -9,6 +9,28 @@ size, disability, ethnicity, gender identity and expression, level of experience
 education, socio-economic status, nationality, personal appearance, race,
 religion, or sexual identity and orientation.
 
+## Statement of Solidarity
+
+Sudo Mesh has adopted the [Omni Commons Statement of Solidarity](https://omnicommons.org/wiki/Founding_Document#Statement_of_Solidarity):
+
+> The Omni is an open and diverse community. We love and value every person. To this end, we honor & respect the experiences, center the perspectives, and prioritize the needs of marginalized and oppressed people. For example:
+>
+> - Poor, working class, unemployed and enslaved people struggling against a world dominated by money and capital;
+> - People of color struggling against racism & white supremacy;
+> - People struggling against all forms of colonialism, from Ohlone people whose stolen land we occupy, to people being threatened or displaced by gentrification;
+> - Women and all gender minorities struggling against sexism, misogyny and male supremacy;
+> - Transgender & gender-nonconforming people struggling against the gender binary, bioessentialism, transphobia & transmisogyny;
+> - Queer, LGB and same-gender-loving people struggling against homophobia & heterosexism;
+> - People with physical & mental disabilities who struggle with ableism & accessibility;
+> - People of all shapes and sizes struggling against fatphobia and other forms of body hierarchy;
+> - The survivors of rape, harassment, assault, trauma and exploitation;
+> - Migrants struggling against nationalism and xenophobia, especially those without documents or citizenship;
+> - Speakers of all languages struggling against the dominance of English.
+>
+> This is not a hypothetical exhaustive list of every oppression ever. Rather, it's a proactive recognition of some of the real issues faced by real people in our communities today, an expression of our solidarity and our intent to work side by side building our futures together.
+>
+> As a community, we agree to be in solidarity with those who are most vulnerable. We are prepared to be held accountable for our social privilege when necessary. We will actively work to hold our spaces to the highest ideals - not just make them safe, but warm, welcoming and loving for everybody. 
+
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
