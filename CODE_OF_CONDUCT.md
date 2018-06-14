@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Sudo Mesh Code of Conduct
 
 ## Our Pledge
 
